@@ -1,5 +1,10 @@
 ### 👋 Hi there, I'm Junyi
 
+- 😄 Pronouns: [ˈdʒun iː]
+- 📫 How to reach me: me#junyi.pw (replace #)
+
+
+Welcome to my blog: https://blog.junyi.pw
 
 ![Junyi's github stats](https://github-readme-stats.vercel.app/api?username=Military-Doctor&show_icons=true)
 
