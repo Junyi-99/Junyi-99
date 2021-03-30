@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Junyi
 
 - 😄 Pronouns: [ˈdʒun iː]
-- 📫 How to reach me: me#junyi.pw (replace #)
+- 📫 You can reach me at: me#junyi.pw (replace #)
 
 
 Welcome to my blog: https://blog.junyi.pw
