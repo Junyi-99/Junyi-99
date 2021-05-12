@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Junyi
 
-- 😄 Pronouns: [ˈdʒun iː]
+- 😄 Pronounciation: [ˈdʒun iː]
 - 📫 You can reach me at: me#junyi.pw (replace #)
 
 
