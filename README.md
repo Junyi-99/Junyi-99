@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Junyi
 
-- 😄 Pronounciation: [ˈdʒun iː] (somewhat like JUnit)
+- 😄 Pronounciation: [ˈdʒun iː] (somewhat like June·E)
 - 📫 You can reach me at: me#junyi.pw (replace #)
 
 
-Welcome to my blog: https://blog.junyi.pw
+Welcome to my blog: https://military-doctor.github.io/
 
 ![Junyi's github stats](https://github-readme-stats.vercel.app/api?username=Military-Doctor&show_icons=true)
 
