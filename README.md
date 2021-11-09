@@ -4,9 +4,9 @@
 - 📫 You can reach me at: me#junyi.pw (replace #)
 
 
-Welcome to my blog: https://junyi-bro.github.io/
+Welcome to my blog: https://junyi-99.github.io/
 
-![Junyi's github stats](https://github-readme-stats.vercel.app/api?username=Junyi-bro&show_icons=true)
+![Junyi's github stats](https://github-readme-stats.vercel.app/api?username=Junyi-99&show_icons=true)
 
 
 
