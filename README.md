@@ -9,7 +9,14 @@ Welcome to my blog: https://junyi-99.github.io/
 ![Junyi's github stats](https://github-readme-stats.vercel.app/api?username=Junyi-99&show_icons=true)
 
 
+### Skills
 
+- C / C++
+- Python
+- HTML / JS / CSS
+- GO
+- Photoshop
+- Final Cut Pro
 
 
 
