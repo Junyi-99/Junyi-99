@@ -7,7 +7,7 @@
 Welcome to my blog: https://junyi-99.github.io/
 
 
-### Skills
+## Skills
 
 - C / C++
 - Python
@@ -16,7 +16,7 @@ Welcome to my blog: https://junyi-99.github.io/
 - Photoshop
 - Final Cut Pro
 
-### Selected Repos
+## Selected Repos
 
 - [awesomeJunyi](https://github.com/Junyi-99/awesome-junyi)
 
