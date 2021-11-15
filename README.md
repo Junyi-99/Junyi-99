@@ -6,8 +6,6 @@
 
 Welcome to my blog: https://junyi-99.github.io/
 
-![Junyi's github stats](https://github-readme-stats.vercel.app/api?username=Junyi-99&show_icons=true)
-
 
 ### Skills
 
@@ -17,6 +15,12 @@ Welcome to my blog: https://junyi-99.github.io/
 - GO
 - Photoshop
 - Final Cut Pro
+
+### Selected Repos
+
+- [awesomeJunyi](https://github.com/Junyi-99/awesome-junyi)
+
+![Junyi's github stats](https://github-readme-stats.vercel.app/api?username=Junyi-99&show_icons=true)
 
 
 
