@@ -7,7 +7,7 @@
 Welcome to my blog: https://junyi-99.github.io/
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Junyi-99&color=blue&style=flat-square"></img>
+  <img src="https://komarev.com/ghpvc/?username=Junyi-99&color=blue&style=flat-square&label=PROFILE+VIEWS"></img>
 </p>
 
 ## Skills
