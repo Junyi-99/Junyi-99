@@ -5,9 +5,6 @@
 
 - 😄 Pronounciation: [ˈdʒun iː] (somewhat like June·E)
 
-- 📫 You can reach me at: me#junyi.pw (replace #)
-
-
 Welcome to my blog: https://junyi-99.github.io/
 
 
