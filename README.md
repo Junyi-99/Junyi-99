@@ -2,22 +2,35 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Junyi-99&color=blue&style=flat-square&label=PROFILE+VIEWS"></img>
 </p>
+
 - 😄 Pronounciation: [ˈdʒun iː] (somewhat like June·E)
+
 - 📫 You can reach me at: me#junyi.pw (replace #)
 
 
 Welcome to my blog: https://junyi-99.github.io/
 
 
+<h2 align="left">🛠 &nbsp;Languages and Tools</h2>
 
-## Skills
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+<br>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+<br>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+<br>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Grafana](https://img.shields.io/badge/Grafana-E95420?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=grafana&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-- C / C++
-- Python
-- HTML / JS / CSS
-- GO
-- Photoshop
-- Final Cut Pro
+
 
 ## Selected Repos
 
@@ -25,7 +38,11 @@ Welcome to my blog: https://junyi-99.github.io/
 
 ![Junyi's github stats](https://github-readme-stats.vercel.app/api?username=Junyi-99&show_icons=true)
 
-
+<h2 align="left"> 🤝🏻 &nbsp;Connect with Me</h2>
+<p>
+<a href="http://linkedin.com/in/junyi-hou-2aa641201/"><img src="https://img.shields.io/badge/-Junyi-0077B5?style=flat&logo=Linkedin&logoColor=#0A66C2"/></a>	
+<a href="mailto:hji200914@gmail.com"><img src="https://img.shields.io/badge/-hji200914@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <!--
 Here are some ideas to get you started:
