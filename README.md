@@ -5,7 +5,7 @@
 
 - 😄 Pronounciation: [ˈdʒun iː] (somewhat like June·E)
 
-Welcome to my blog: https://junyi-99.github.io/
+Welcome to my blog: https://www.junyi.dev/
 
 
 <h2 align="left">🛠 &nbsp;Languages and Tools</h2>
