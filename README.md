@@ -35,6 +35,7 @@ Welcome to my blog: https://www.junyi.dev/
 </a>
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Junyi-99&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 ## Selected Repos
 
