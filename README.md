@@ -43,7 +43,7 @@ Welcome to my blog: https://www.junyi.dev/
 
 <h2 align="left"> 🤝🏻 &nbsp;Connect with Me</h2>
 <p>
-<a href="http://linkedin.com/in/junyi-hou-2aa641201/"><img src="https://img.shields.io/badge/-Junyi-0077B5?style=flat&logo=Linkedin&logoColor=#0A66C2"/></a>	
+<a href="https://www.linkedin.com/in/junyi-hou-00b668248/"><img src="https://img.shields.io/badge/-Junyi-0077B5?style=flat&logo=Linkedin&logoColor=#0A66C2"/></a>	
 <a href="mailto:hji200914@gmail.com"><img src="https://img.shields.io/badge/-hji200914@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
