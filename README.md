@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=Junyi-99&color=blue&style=flat-square&label=PROFILE+VIEWS"></img>
 </p>
 
+> Not the framework's advance, but the idea's dance. —— Junyi
+
 - 😄 Pronounciation: [ˈdʒun iː] (somewhat like June·E)
 
 - Welcome to my blog: https://www.junyi.dev/
