@@ -6,6 +6,7 @@
 > Not the framework's advance, but the idea's dance. —— Junyi
 
 - 😄 Pronounciation: [ˈdʒun iː] (somewhat like June·E)
+- You can call me Robert
 
 - Welcome to my blog: https://www.junyi.dev/
 
