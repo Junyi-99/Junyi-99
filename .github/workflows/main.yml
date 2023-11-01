@@ -33,7 +33,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-      - name: Recent activity charts
+      - name: 代码习惯
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.charts.svg
@@ -44,13 +44,12 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Asia/Singapore
           
-      - name: Detailed Badge Display
+      - name: 成就徽章
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          # plugin_achievements_only: 
           plugin_achievements_display: detailed
           plugin_achievements_threshold: B
