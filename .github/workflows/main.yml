@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Singapore
-          base: header
+          base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_habits: yes
