@@ -1,5 +1,3 @@
-![Metrics](/github-metrics.svg)
-![](/metrics.plugin.calendar.full.svg)
 <h1 align="center">👋 Hi there, I'm Junyi</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Junyi-99&color=blue&style=flat-square&label=PROFILE+VIEWS"></img>
@@ -55,6 +53,10 @@
 <a href="https://www.linkedin.com/in/junyi-hou-00b668248/"><img src="https://img.shields.io/badge/-Junyi-0077B5?style=flat&logo=Linkedin&logoColor=#0A66C2"/></a>	
 <a href="mailto:hji200914@gmail.com"><img src="https://img.shields.io/badge/-hji200914@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+![](metrics.plugin.habits.charts.svg)
+![Metrics](/github-metrics.svg)
+![](/metrics.plugin.calendar.full.svg)
 
 <!--
 Here are some ideas to get you started:
