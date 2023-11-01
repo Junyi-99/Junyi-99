@@ -23,6 +23,15 @@ jobs:
       #     base: ""
       #     plugin_calendar: yes
       #     plugin_calendar_limit: 0
+      
+      - name: 半年的提交日历
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
