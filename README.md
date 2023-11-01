@@ -57,7 +57,7 @@
 ![](metrics.plugin.habits.charts.svg)
 ![Metrics](/github-metrics.svg)
 ![](/metrics.plugin.calendar.full.svg)
-
+![](/metrics.plugin.achievements.svg)
 <!--
 Here are some ideas to get you started:
 
