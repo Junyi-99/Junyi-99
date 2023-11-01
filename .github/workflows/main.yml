@@ -15,7 +15,17 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
+          config_timezone: Asia/Singapore
+          base: header
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: A
+
       # - uses: lowlighter/metrics@latest
       #   with:
       #     filename: metrics.plugin.calendar.full.svg
@@ -24,32 +34,28 @@ jobs:
       #     plugin_calendar: yes
       #     plugin_calendar_limit: 0
       
-      - name: 半年的提交日历
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+      # - name: 半年的提交日历
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.isocalendar.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
           
-      - name: 代码习惯
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: Asia/Singapore
           
-      - name: 成就徽章
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: B
+      # - name: 代码习惯
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.habits.charts.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+
+          
+      #     config_timezone: Asia/Singapore
+          
+      # - name: 成就徽章
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.achievements.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: detailed
+      #     plugin_achievements_threshold: A
