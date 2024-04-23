@@ -1,5 +1,5 @@
 <div align="center">
-<img src="hello.svg" alt="gretting image"/>
+<img src="hello2.svg" alt="gretting image"/>
 
 <div>
 <img src="metrics.plugin.achievements.svg" alt="achievement image"/>
