@@ -14,3 +14,7 @@
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=14367694)
+
+## ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Junyi-99/ChatGPT-API-Leakage,Junyi-99/hugo-theme-anubis2&type=Date)](https://star-history.com/#Junyi-99/ChatGPT-API-Leakage&Junyi-99/hugo-theme-anubis2&Date)
