@@ -15,6 +15,8 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=14367694)
 
+![](https://github-readme-stats.vercel.app/api?username=Junyi-99&show=prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true)
+
 ## ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Junyi-99/ChatGPT-API-Leakage,Junyi-99/hugo-theme-anubis2&type=Date)](https://star-history.com/#Junyi-99/ChatGPT-API-Leakage&Junyi-99/hugo-theme-anubis2&Date)
