@@ -9,5 +9,8 @@
 
         
 </div>
-    
+
+```
+<--- Go check out my blog?
+```
 ![](https://hit.yhype.me/github/profile?user_id=14367694)
