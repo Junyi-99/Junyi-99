@@ -8,15 +8,24 @@
 </div>
 
 ## ⚙️ GitHub Analytics
-<div style="display: flex; align-items: flex-start;">
-    <img src="metrics.plugin.achievements.svg" alt="Achievements">
-    <img src="metrics.plugin.isocalendar.svg" alt="Isocalendar">
-</div>
+
+<table>
+   <thead>
+      <tr>
+         <th width="500"><img src="metrics.plugin.achievements.svg" alt="Achievements"></th>
+         <th width="500">
+            <img width="500" src="metrics.plugin.isocalendar.svg" alt="Isocalendar">
+            <img width="500" src="https://github-readme-stats.vercel.app/api?username=Junyi-99&rank_icon=percentile&show_icons=true" alt="Badge" />
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td colspan="2">
+            <img width="100%" src="https://api.star-history.com/svg?repos=Junyi-99/ChatGPT-API-Leakage,Junyi-99/hugo-theme-anubis2&type=Date)](https://star-history.com/#Junyi-99/ChatGPT-API-Leakage&Junyi-99/hugo-theme-anubis2&Date" />
+         </td>
+      </tr>
+   </tbody>
+</table>
 
 ![](https://hit.yhype.me/github/profile?user_id=14367694)
-
-![](https://github-readme-stats.vercel.app/api?username=Junyi-99&show=prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true)
-
-## ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Junyi-99/ChatGPT-API-Leakage,Junyi-99/hugo-theme-anubis2&type=Date)](https://star-history.com/#Junyi-99/ChatGPT-API-Leakage&Junyi-99/hugo-theme-anubis2&Date)
