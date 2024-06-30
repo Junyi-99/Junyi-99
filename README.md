@@ -7,9 +7,12 @@
       <img src="metrics.plugin.achievements.svg" alt="Achievements" />
    </div>
    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Junyi-99&rank_icon=percentile&show=prs_merged_percentage" alt="Status" />
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=Junyi-99&rank_icon=percentile&show=prs_merged_percentage" alt="Status" /> -->
+      <img src="https://github-contribution-stats.vercel.app/api/?username=Junyi-99" alt="Contribution Status"/>
    </div>
 </div>
+
+<br/>
 
 ```
 <--- Go check out my blog?
