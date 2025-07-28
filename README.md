@@ -9,8 +9,8 @@
       <a href="#" alt="anchor"><img src="metrics.plugin.achievements.svg" alt="Achievements" /></a>
    </div>
    <div align="center">
-<!--       <img src="https://github-readme-stats.vercel.app/api?username=Junyi-99&rank_icon=percentile&show=prs_merged_percentage" alt="Status" /> -->
-      <a href="#" alt="anchor"><img src="https://github-contribution-stats.vercel.app/api/?username=Junyi-99" alt="Contribution Status"/></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=Junyi-99&rank_icon=percentile&show=prs_merged_percentage" alt="Status" />
+<!--       <a href="#" alt="anchor"><img src="https://github-contribution-stats.vercel.app/api/?username=Junyi-99" alt="Contribution Status"/></a> -->
    </div>
 </div>
 
