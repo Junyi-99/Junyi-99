@@ -31,6 +31,16 @@
 <h2 align="center">Featured Projects</h2>
 
 <p>
+    <a href="https://github.com/vercel/ai/pull/8836">
+        vercel/ai #8836
+        <img src="https://img.shields.io/github/stars/vercel/ai" />
+    </a>
+    <br/>
+    <a href="https://github.com/modelcontextprotocol/python-sdk/issues/1798">
+        modelcontextprotocol/python-sdk #1798
+        <img src="https://img.shields.io/github/stars/modelcontextprotocol/python-sdk" />
+    </a>
+    <br/>
     <a href="https://github.com/PaperDebugger/PaperDebugger">
         PaperDebugger/PaperDebugger
         <img src="https://img.shields.io/github/stars/paperdebugger/paperdebugger" />
@@ -45,7 +55,6 @@
         medusa-compute/jagged-mamba2
         <img src="https://img.shields.io/github/stars/medusa-compute/jagged-mamba2" />
     </a>
-   
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=14367694)
