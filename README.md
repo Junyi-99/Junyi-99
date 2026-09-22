@@ -24,6 +24,14 @@
         alt="Status"
     />
 </div>
+
+<div align="center">
+    <img
+        src="https://ghfind.com/api/card/mini/junyi-99?variant=radar)](https://ghfind.com/u/junyi-99?ref=badge"
+        alt="ghfind-ranking"
+    />
+</div>
+
 </div>
 
 <br />
